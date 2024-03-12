@@ -1,0 +1,7 @@
+[
+  { "id": 6, "name": "Sony SmartTime X1", "price": 329.99 },
+  { "id": 7, "name": "Huawei TimeMaster Elite", "price": 279.99 },
+  { "id": 8, "name": "Xiaomi Mi Watch Pro 2", "price": 299.95 },
+  { "id": 9, "name": "Fossil Gen 6 Explorer", "price": 349.99 },
+  { "id": 10, "name": "OnePlus Watch X", "price": 279.99 }
+]
